@@ -13,3 +13,6 @@ function menu_contact(){
 function menu_chat(){
     window.location.href = "index.html";
 }
+function chatan(){
+    window.location.href = "chat.html";
+}
